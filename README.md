@@ -24,3 +24,11 @@ In the output, you'll find options to open the app in a
 - [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
 You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+
+### Images
+
+<img src="assets/images/screenshot-1.png" width="300" alt="Tic Tac Clash" />
+<img src="assets/images/screenshot-2.png" width="300" alt="Tic Tac Clash" />
+<img src="assets/images/screenshot-3.png" width="300" alt="Tic Tac Clash" />
+<img src="assets/images/screenshot-4.png" width="300" alt="Tic Tac Clash" />
+<img src="assets/images/screenshot-5.png" width="300" alt="Tic Tac Clash" />
